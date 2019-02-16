@@ -1,2 +1,2 @@
-# michaelstanwyck.github.io
+# michaelstanwyck
 Personal website for Michael Stanwyck
